@@ -1,0 +1,68 @@
+body {
+  font-size: 17px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#side {
+  float: left;
+  width: 360px;
+  font-size: 14px;
+  margin-top: 40px;
+}
+
+#photo {
+  text-align: center;
+}
+
+#photo img {
+  width: 300px;
+  border: 2px solid #ddd;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+#content {
+  margin-left: 380px;
+}
+
+footer {
+  font-size: 11px;
+  text-align: center;
+  width: 100%;
+  position: relative;
+  bottom: -20px;
+}
+
+#contact {
+  border-top: 2px solid #ddd;
+  margin-top: 20px;
+  padding-top: 5px;
+}
+#contact ul {
+  list-style-type: none;
+  padding: 0 0 0 5px;
+}
+
+.conference {
+  font-style: italic;
+}
+
+.cv {
+  font-weight: bold;
+}
+
+.course.name {
+  display: block;
+}
+
+.pub li .title {
+  /* font-weight: bold; */
+  font-size: 1.1em;
+}
+
+.course.descr {
+  font-style: italic;
+}
